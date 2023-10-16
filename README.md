@@ -8,6 +8,7 @@ Uniwersytet Zielonogórski
 ## Certyfikaty i języki
 **Certyfikaty**
 Język angielski B1 na Busuu
+
 **Języki**
 polski - język ojczysty (C2)
 angielski - średniozaawansowana znajomość języka (B1)
