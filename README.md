@@ -1,15 +1,15 @@
 # Karol Mądraszek
 
 ## Wykształcenie
-**Informatyka**
+**Informatyka**\
 od 2019\
 Uniwersytet Zielonogórski
 
 ## Certyfikaty i języki
-**Certyfikaty**
+**Certyfikaty**\
 Język angielski B1 na Busuu
 
-**Języki**
+**Języki**\
 polski - język ojczysty (C2)\
 angielski - średniozaawansowana znajomość języka (B1)\
 niemiecki - średniozaawansowana znajomość języka (B1)
